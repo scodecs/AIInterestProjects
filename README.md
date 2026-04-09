@@ -16,7 +16,7 @@ Welcome to my collection of AI-driven exploratory projects. This repository show
 ### 🎬 Demo Video
 Check out the system in action:
 
-![ArchReviewer AI Demo](extras/ArchReviewer%20AI.mp4)
+[![ArchReviewer AI Demo](https://img.youtube.com/vi/nADj4uh0ERw/0.jpg)](https://www.youtube.com/watch?v=nADj4uh0ERw)
 
 ### 📂 Repository
 The complete source code and technical documentation for this project can be found here:
